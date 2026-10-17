@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jimloong&color=ff2bd6&style=for-the-badge&label=PLAYERS+VISITED" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jimloong.jimloong&left_color=%230b0618&right_color=%23ff2bd6&left_text=PLAYERS%20VISITED" />
 </p>
 
 <p align="center">
