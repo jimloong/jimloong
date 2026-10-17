@@ -41,19 +41,27 @@
 
 <img src="./assets/t-quests.svg" width="100%" alt="Quests Completed" />
 
-| 🎮 EVENT | 🗺️ TYPE | 🏅 RESULT |
-|---|---|---|
-| *PICO CTF* | Capture The Flag | *Top 20* |
-| *ICTF* | Capture The Flag | *Top 20* |
-| *Hackathon name here* | Hackathon | *what you built / award* |
+<p align="center">
+  <img src="./assets/q-picoctf.svg" width="49%" alt="picoCTF - Capture The Flag - Top 20" />
+  <img src="./assets/q-ictf.svg" width="49%" alt="iCTF - Capture The Flag - Top 20" />
+</p>
+<p align="center">
+  <img src="./assets/q-0xcynx.svg" width="49%" alt="0xCYNX - Capture The Flag" />
+  <img src="./assets/q-codenection.svg" width="49%" alt="CodeNection - Capture The Flag" />
+</p>
+<p align="center">
+  <img src="./assets/q-aws-cendekiawan.svg" width="99%" alt="AWS CendekiAwan 2026 - Hackathon" />
+</p>
 
 <img src="./assets/t-saves.svg" width="100%" alt="Save Files" />
 
-| 💾 SAVE SLOT | 📝 DESCRIPTION | ⚙️ TECH |
-|---|---|---|
-| 🐍 [Python Application](https://github.com/jimloong/Projects) | Semester 3 Python app | Python |
-| 🌐 [Group Web Project](https://github.com/jimloong/Projects) | Team-built website | HTML · CSS · JS |
-| 📋 [Software Engineering Assignment](https://github.com/jimloong/Projects) | Requirements, design and test plan | Docs · Testing |
+<p align="center">
+  <a href="https://github.com/jimloong/Projects"><img src="./assets/p-python.svg" width="49%" alt="Python App - Semester 3 Python application" /></a>
+  <a href="https://github.com/jimloong/Projects"><img src="./assets/p-web.svg" width="49%" alt="Web Project - team-built website (HTML, CSS, JS)" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jimloong/Projects"><img src="./assets/p-swe.svg" width="49%" alt="SWE Assignment - requirements, design and test plan" /></a>
+</p>
 
 <img src="./assets/t-stats.svg" width="100%" alt="Player Stats" />
 
